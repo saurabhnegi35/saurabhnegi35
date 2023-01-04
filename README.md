@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @SaurabhNegi35
 - 👀 I’m interested in Web Development, Artificial Intelligence and Machine Learning.
-- 🌱 I’m currently learning Aartificial Intelligence.
+- 🌱 I’m currently learning Artificial Intelligence.
 - 💞️ I’m looking to collaborate on AI in Web Application
 - 📫 How to reach me through Linkedin @ https://www.linkedin.com/in/saurabh-negi-96423b14a/
 
