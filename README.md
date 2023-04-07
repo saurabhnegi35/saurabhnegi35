@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Saurabh Negi</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India</h3>
 
-- 🔭 I’m currently working on [E-Commerce Website](sadad)
+- 🔭 I’m currently working on [E-Commerce Website]([sadad](https://github.com/saurabhnegi35/Ecommerce_Web_App_React))
 
 - 🌱 I’m currently learning **React**
 
-- 👯 I’m looking to collaborate on [E-Commerce Website](sadasd)
+- 👯 I’m looking to collaborate on [E-Commerce Website]([sadasd](https://github.com/saurabhnegi35/Ecommerce_Web_App_React))
 
-- 👨‍💻 All of my projects are available at [Github](sadasdas)
+- 👨‍💻 All of my projects are available at [Github]([sadasdas](https://github.com/saurabhnegi35))
 
 - 💬 Ask me about **Web Development**
 
