@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [E-Commerce Website](https://github.com/saurabhnegi35/Ecommerce_Web_App_React)
 
-- 👨‍💻 All of my projects are available at [Github](https://github.com/saurabhnegi35)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/saurabhnegi35/)
 
 - 💬 Ask me about **Web Development**
 
