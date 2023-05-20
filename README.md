@@ -24,6 +24,7 @@
   <h3 align="left">Programming Languages:</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt=Javascript" width="60" height="60"> &nbsp &nbsp &nbsp &nbsp 
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="60" height="60" > &nbsp &nbsp &nbsp &nbsp
+  <img src="https://upload.wikimedia.org/wikipedia/ml/2/2e/Java_Logo.svg" alt="Java" width="60" height="60" > &nbsp &nbsp &nbsp &nbsp
 </div>
 
 <div>
@@ -38,8 +39,8 @@
 
 <div>
   <h3 align="left">Backend Development:</h3>
- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="60" height="60"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="60" height="60"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer">   &nbsp &nbsp &nbsp &nbsp <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="60" height="60"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">  &nbsp &nbsp
-  
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="NodeJS" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
+  <img src="https://www.vectorlogo.zone/logos/expressjs/expressjs-ar21.svg" alt="Express" width="100" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
 </div>
 
 <div>
