@@ -40,13 +40,13 @@
 
 <div>
   <h3 align="left">Database:</h3>
-   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="60" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="100" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp  <img src="https://pngimg.com/uploads/mysql/mysql_PNG37.png" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
   
 </div>
 
 <div>
   <h3 align="left">Backend as a Service(BaaS):</h3>
-<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="60" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
+<img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="100" height="60"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
 </div>
 
 <div>
