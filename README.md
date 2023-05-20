@@ -65,17 +65,17 @@
 <p align="left">
 
 
-[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhnegi35&theme=radical&hide_border=true&layout=compact)](https://github.com/saurabhnegi35/github-readme-stats)
+[![GitHub Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arunnegi-07&theme=radical&hide_border=true&layout=compact)](https://github.com/arunnegi-07/github-readme-stats)
 <br />
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saurabhnegi35&theme=radical)](https://github.com/saurabhnegi35)
+[![trophy](https://github-profile-trophy.vercel.app/?username=arunnegi-07&theme=radical)](https://github.com/arunnegi-07)
 <br />
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhnegi35&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=arunnegi-07&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 <br />
 
- ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhnegi35&theme=radical&show_icons=true&hide_border=true)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=arunnegi-07&theme=radical&show_icons=true&hide_border=true)
 <br />
 
 
