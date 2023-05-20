@@ -18,14 +18,14 @@
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/saurabhnegi35)
 [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:reachsaurabhnegi@gmail.com)
 [<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />](https://github.com/saurabhnegi35)
-<!-- [<img src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" />](https://www.hackerrank.com/saurabhnegi35)
- [<img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" />](https://leetcode.com/saurabhnegi35/) -->
 
 ## 🛠️ Languages and Tool
 <div>
   <h3 align="left">Programming Languages:</h3>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="60" height="60"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="60" height="60"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer">
-  </div>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt=Javascript" width="60" height="60"> &nbsp &nbsp &nbsp &nbsp 
+  <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript" width="60" height="60" > &nbsp &nbsp &nbsp &nbsp
+</div>
+
 <div>
   <h3 align="left">FrontEnd Development:</h3>
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML5" width="60" height="60"/> </img>  &nbsp &nbsp &nbsp &nbsp
