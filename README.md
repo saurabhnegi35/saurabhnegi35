@@ -45,7 +45,8 @@
 
 <div>
   <h3 align="left">Database:</h3>
-   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="100" height="60"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> &nbsp &nbsp &nbsp &nbsp  <img src="https://pngimg.com/uploads/mysql/mysql_PNG37.png" alt="mysql" width="60" height="60"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer">  &nbsp &nbsp &nbsp &nbsp 
+   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" width="100" height="60"/> &nbsp &nbsp &nbsp &nbsp  
+   <img src="https://www.vectorlogo.zone/logos/mysql/mysql-official.svg" alt="mysql" width="60" height="60"/> &nbsp &nbsp &nbsp &nbsp 
   
 </div>
 
