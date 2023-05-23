@@ -74,7 +74,7 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=saurabhnegi35&theme=radical)](https://github.com/saurabhnegi35)
 <br />
 <br />
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhnegi35&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+<!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=saurabhnegi35&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats) -->
 <br />
 
  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=saurabhnegi35&theme=radical&show_icons=true&hide_border=true)
