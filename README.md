@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Saurabh Negi</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnegi35&label=Profile%20views&color=0e75b6&style=flat" alt="chandan881" /> </p
 <h3 align="center">A passionate Full Stack Developer from India</h3>
-
 - 🔭 I’m currently working on [E-Commerce Website](https://github.com/saurabhnegi35/Ecommerce_Web_App_React)
 
 - 🌱 I’m currently learning **React**
