@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Saurabh Negi</h1>
-<iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=2738478" style='border:none;'></iframe>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saurabhnegi35&label=Profile%20views&color=0e75b6&style=flat" alt="chandan881" /> </p
 <h3 align="center">A passionate Full Stack Developer from India</h3>
